@@ -6,6 +6,11 @@ This project demonstrates authentication, posting, responsive layout (desktop on
 
 ---
 
+# Presentation file:
+https://github.com/Lilian-CR/twitter-clone/blob/main/public/Twitter%20Clone%20_%20by%20Lilian%20Rodrigues%20-%20FullStack%202025%20_%20Spring.pptx
+
+---
+
 ## Project Goals
 
 - Practice full-stack development using modern tools
