@@ -1,6 +1,7 @@
 # 🐦 Twitter Clone by Lilian Rodrigues
 
 A simple and clean Twitter clone built as a final capstone project for the FullStack Web Development course – Spring 2025.  
+
 This project demonstrates authentication, posting, responsive layout (desktop only), and MongoDB integration using the modern [Next.js](https://nextjs.org/) framework.
 
 ---
