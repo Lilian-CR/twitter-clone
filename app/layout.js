@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Chirp - Twitter Clone",
+  title: "Twitter Clone",
   description: "What's happening?",
   icons: {
     icon: '/favicon.png',
