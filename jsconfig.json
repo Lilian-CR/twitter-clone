@@ -18,7 +18,7 @@
         "@/*": ["./src/*"]
       }
     },
-    "include": ["next-env.d.js", "**/*.ts", "**/*.tsx", "app/layout.js", "app/page.js", "next.config.js", "app/api/tweets/route.js", "src/models/tweet.js", "src/components/Sidebar.js", "src/components/MainLayout.js", "src/components/Modal.js", "src/components/PostArea.js", "src/components/SidebarWrapper.js", "src/components/TweetCard.js", "src/components/TweetCards.js"],
+    "include": ["next-env.d.js", "**/*.ts", "**/*.tsx", "app/layout.js", "app/page.js", "next.config.js", "app/api/tweets/route.js", "src/models/tweet.js", "src/components/Sidebar.js", "src/components/MainLayout.js", "src/components/Modal.js", "src/components/PostArea.js", "src/components/SidebarWrapper.js", "src/components/TweetCard.js", "src/components/TweetCards.js", "app/profile/page.tsx"],
     "exclude": ["node_modules"]
   }
   

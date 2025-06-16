@@ -28,7 +28,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-, "src/models/tweet.js", "src/components/Sidebar.js", "src/components/MainLayout.js", "src/components/Modal.js", "src/components/PostArea.js", "src/components/SidebarWrapper.js", "src/components/TweetCard.js", "src/components/TweetCards.js"  ],
+, "src/models/tweet.js", "src/components/Sidebar.js", "src/components/MainLayout.js", "src/components/Modal.js", "src/components/PostArea.js", "src/components/SidebarWrapper.js", "src/components/TweetCard.js", "src/components/TweetCards.js", "app/profile/page.tsx"  ],
   "exclude": [
     "node_modules"
   ]
